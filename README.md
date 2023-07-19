@@ -8,8 +8,10 @@ This app uses two library PDF-lib.js and FileSaver.js
 https://certificate-generator1697.netlify.app/
 
 
-![Screenshot (327)](https://github.com/Pushpendra-1697/Certificate-Generator/assets/104748364/7e954dc0-9f4e-4442-ba5a-dec4198d0148)
+
+![Screenshot (329)](https://github.com/Pushpendra-1697/Certificate-Generator/assets/104748364/de62acef-8793-4f35-a985-bab9cfa6ac44)
 
 
 # Certificate Sample
-![Screenshot (324)](https://github.com/Pushpendra-1697/Certificate-Generator/assets/104748364/edbe66a2-7a81-4093-9d5c-8b20f75b1313)
+
+![Screenshot (328)](https://github.com/Pushpendra-1697/Certificate-Generator/assets/104748364/ef2362fe-31ab-49fe-acea-53a65d086dab)
